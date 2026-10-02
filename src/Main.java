@@ -1,7 +1,7 @@
 // TODO: musimy dodac brakujace klasy
 
 // OK, ja dodam ‘Adder‘, a s##### doda ‘Subtractor‘.
-
+// nikt nie dodaje ;-0
 public class Main {
  public static void main(String[] args) {
          Adder adder = new Adder();
